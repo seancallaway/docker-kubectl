@@ -1,7 +1,7 @@
 # docker-kubectl
 Docker image containing bash, kubectl, and gettext
 
-[![Downloads Stats][docker-downloads]][docker-url]
+![Docker Pulls](https://img.shields.io/docker/pulls/seancallaway/kubectl)
 
 A simple Docker image containing kubectl and the gettext package.
 
@@ -51,7 +51,3 @@ Distributed under the GPLv3 license. See ``LICENSE`` for more information.
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
-
-<!-- Markdown link & img dfn's -->
-[docker-url]: https://hub.docker.com/r/seancallaway/kubectl
-[docker-downloads]: https://img.shields.io//docker/pulls/seancallaway/kubectl?style=flat-square
